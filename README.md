@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barii18
 - 👀 I’m interested in website designing and data analysis
-- 🌱 I’m currently learning Javascript and Python languages for data science
+- 🌱 I’m currently learning Python and SQL languages for Data Science
 - 📫 How to reach me vial email at: bariyatlikita@gmail.com
 
 <!---
